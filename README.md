@@ -1,7 +1,5 @@
   
-https://github.com/michaelandrefraniatte  
-  
-**If you are using** anything from my works, **please pay me** as following, otherwise it's an infringement to my copyrights.  
+**The default copyright laws apply to my works**, meaning that I retain all rights to my source codes and no one may reproduce, distribute, or create derivative works from my works. **If you are using** anything from my works, you have to **pay me** as following.  
   
 <table>
   <tr>
@@ -17,14 +15,12 @@ https://github.com/michaelandrefraniatte
     <td>
       • For using program <b>50 €</b><br />  
       • For using design <b>500 €</b><br />  
-      • For using code <b>5,000 €</b>  
+      • For using code <b>5000 €</b>  
     </td>
   </tr>
-</table>
+</table>  
   
-The default copyright laws apply to all my works, meaning that I retain all rights to my source codes and no one may reproduce, distribute, or create derivative works from my works.  
-  
-You are please to contact me by email to this address: michael.franiatte@gmail.com.  
+You are please to contact me by email to this address: michael.franiatte@gmail.com. You can check my informations to this address: https://michaelandrefraniatte.github.io. You can check my works to this address: https://github.com/michaelandrefraniatte.  
   
 **Michaël André Franiatte ©1999-2025**  
   
